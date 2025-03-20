@@ -1,6 +1,3 @@
-# ZJU Rule 订阅更新地址
-DOMAIN-SUFFIX,sub.zjurule.xyz
-
 # RVPN
 DOMAIN-SUFFIX,rvpn.zju.edu.cn
 DOMAIN-SUFFIX,webvpn.zju.edu.cn
